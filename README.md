@@ -11,8 +11,7 @@ focused on computational thinking, object-oriented programming, and programming 
 - Python
 
 ## Author
-Sebastián Noriega Olavarrieta  
-A00840922
+Sebastián Noriega Olavarrieta
 
 ## Purpose
 This repository serves as an academic portfolio and a foundation for future projects,
