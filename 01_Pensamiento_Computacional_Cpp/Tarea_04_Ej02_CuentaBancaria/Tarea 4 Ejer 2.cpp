@@ -2,7 +2,7 @@
 #include <iostream>
 #include "CuentaBancaria.h"   // Incluimos la clase para poder usarla
 using namespace std;
-//Sebastian Noriega A00840922
+//Sebastian Noriega
 //Tarea 4
 //16/11/2025
 //Grupo TC1033.301
