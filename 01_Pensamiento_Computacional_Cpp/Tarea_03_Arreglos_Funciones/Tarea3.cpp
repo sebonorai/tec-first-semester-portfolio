@@ -5,7 +5,7 @@
 #include <iostream>
 #include <cstdlib>
 
-//Sebastian Noriega 
+//Sebastian Noriega
 //Tarea 3
 //07/11/2025
 //Grupo TC1033.301
