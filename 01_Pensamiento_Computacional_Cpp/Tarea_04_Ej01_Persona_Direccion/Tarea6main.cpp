@@ -4,7 +4,7 @@
 #include <string>
 #include "Direccion.h"
 using namespace std;
-//Sebastian Noriega A00840922
+//Sebastian Noriega
 //Tarea 6
 //24/11/2025
 //Grupo TC1033.301
