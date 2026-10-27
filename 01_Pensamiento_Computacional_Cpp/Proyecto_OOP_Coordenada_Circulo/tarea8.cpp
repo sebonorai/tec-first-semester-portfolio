@@ -2,7 +2,7 @@
 #include "Circulo.h"
 using namespace std;
 
-// Sebastian Noriega 
+// Sebastian Noriega
 // Tarea 8
 // Grupo TC1033.301
 
